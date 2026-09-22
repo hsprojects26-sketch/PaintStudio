@@ -1,7 +1,7 @@
 # PaintStudio
 どこか懐かしい操作したことがあるようなペイントソフト　A painting program with a familiar feel, as if you’ve used it before.
 ================================================================================
-Paint Studio - アプリ紹介文 (日本語)
+Paint Studio
 ================================================================================
 
 【Paint Studio】
@@ -92,4 +92,7 @@ Paint Studio is an independently developed freeware app. If you enjoy
 using it, a quick note of feedback is always appreciated and helps
 keep development going!
 
+<img width="1428" height="892" alt="image" src="https://github.com/user-attachments/assets/cf2447fa-ea52-4acb-bb6b-aa9c7526b72f" />
+
 ================================================================================
+
